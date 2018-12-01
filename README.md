@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 30, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Hannah Rittenhouse)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Use an API to provide users with information on selected movies.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(github.com/hlr16/lesson8_ajax)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. (An API can be used by developers or corporations to provide usiform information to users in different ways. )
+2. (AJAX allows a developer to be updated without reloading and request data from a server.)
+3. (Companies can make their data in databases available to other companies or developers.)
+4. (JSON is a way for developers to convert JSON format JavaSctipt objects.)
+5. (JSON has similar but different datatyped as JavaSctipt or a database system.)
